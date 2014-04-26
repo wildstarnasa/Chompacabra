@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Addon Author="Bitwise" APIVersion="8" Name="Chompacabra" Description="Bit Propulsion Laboratory presents: Chompacabra!" Version="">
+    <Script Name="Chompacabra.lua"/>
+    <Form Name="Chompacabra.xml"/>
+</Addon>
